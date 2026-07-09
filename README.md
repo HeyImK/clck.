@@ -53,4 +53,4 @@ Before connecting the battery check the battery polarity.
 
 ## License
 
-MIT
+CERN-OHL-S-2.0 license 
