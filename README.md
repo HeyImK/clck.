@@ -32,7 +32,7 @@ The goal of this project was simple: build an aesthetic alarm clock with a hint 
 - Piezo buzzer
 - Schottky diode (SS14)
 
-The battery connects through a JST 2.0 connector and is charged using a TP4056 module. A Schottky diode is used on the VBUS line to help prevent reverse current and reduce voltage drop.
+The battery connects through a JST 2.0 connector and is charged using a external TP4056 module. 
 
 ## Pin Mapping
 
